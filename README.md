@@ -1,4 +1,4 @@
-<h1> Konnichiwa Minna-San  <img src="https://c.tenor.com/-jPecNydkV8AAAAi/yuri-anime.gif" width="200px"> <h1>
+<h1> Mina San Konnichiwa!!  <img src="https://c.tenor.com/-jPecNydkV8AAAAi/yuri-anime.gif" width="200px"> <h1>
 
 
 
