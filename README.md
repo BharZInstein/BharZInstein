@@ -1,4 +1,4 @@
-<h1> Hello There Everyone! <img src="https://c.tenor.com/-jPecNydkV8AAAAi/yuri-anime.gif" width="200px"> <h1>
+<h1> Hello there Everyone! <img src="https://c.tenor.com/-jPecNydkV8AAAAi/yuri-anime.gif" width="200px"> <h1>
 
 
 
