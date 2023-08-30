@@ -10,7 +10,7 @@
  
  
  
- <p> "I am Just a Dummy who wants to know Each and every secret of the universe" 😺</p>
+ <p> "I am Just a Dummy who tries to learn new stuff" 😺</p>
  <h2> <img src= "https://thumbs.gfycat.com/AdoredCheeryConure-max-1mb.gif" width="300px"> <h2>
   <h3> See ya Around :) <h3> 
  
