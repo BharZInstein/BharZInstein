@@ -34,6 +34,10 @@ I am Bharghav, a.k.a BharZ
   <img src="https://img.shields.io/badge/-Arduino-purple?style=for-the-badge&logo=arduino" alt="Arduino">
 </p>
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/BharZInstein/achievements?format=svg&limit=3" width="350" />
+</p>
+
 ---
 
 ### **Connect with me:**
