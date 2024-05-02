@@ -6,9 +6,7 @@ I am Bharghav, a.k.a BharZ
 
 - 🚀 College Undergrad who loves to code(●ˇ∀ˇ●)
 - A Web 3 Enthusiast.. Who is currently learning web3🕸️
-- I love creating new stuffs through the means of coding⚙️
 - I solve CTF's and also design them🎭
-
 - 🌸 A Huge fan of Anime and Star Wars
 
 ---
