@@ -25,6 +25,8 @@ I am Bharghav, a.k.a BharZ
 
 <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" alt="React">
 
+<img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter">
+
 </p>
 
 #### Software/Tools
@@ -48,6 +50,8 @@ I am Bharghav, a.k.a BharZ
 #### Currently Learning
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/-Solidity-blue?style=for-the-badge&logo=solidity" alt="Solidity">
 
 <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
 
@@ -74,5 +78,3 @@ I am Bharghav, a.k.a BharZ
 ---
 
 ### <u>Just Trying to Learn New Stuff Everyday!</u> 😺
-
-### <p align="center"><strong>Thanks for stopping by!</strong></p>
