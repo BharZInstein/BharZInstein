@@ -73,7 +73,7 @@ I am Bharghav, a.k.a BharZ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bharghav-srinivasan/)
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)]
+![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)
 ---
 
 ### <u>Just Trying to Learn New Stuff Everyday!</u> 😺
